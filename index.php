@@ -25,7 +25,7 @@
 <body>
 <div class="container mt-5">
     
-    <form action="TextTransformer.php" method="post">
+    <form action="index.php" method="post">
     
     <!-- User text input -->
         <div class="row">
